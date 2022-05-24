@@ -14,6 +14,5 @@ Original article: https://doi.org/10.1111/2041-210X.13802
 
 ## Citation
 
-```
- Grenié, M., Berti, E., Carvajal-Quintero, J., Dädlow, G. M., Sagouis, A. & Winter, M. (2022). Harmonizing taxon names in biodiversity data: A review of tools, databases and best practices. Methods in Ecology and Evolution, 00, 1– 14. https://doi.org/10.1111/2041-210X.13802
-```
+> Grenié, M., Berti, E., Carvajal-Quintero, J., Dädlow, G. M., Sagouis, A. & Winter, M. (2022). Harmonizing taxon names in biodiversity data: A review of tools, databases and best practices. Methods in Ecology and Evolution, 00, 1– 14. https://doi.org/10.1111/2041-210X.13802
+
